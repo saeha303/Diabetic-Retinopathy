@@ -61,7 +61,7 @@ To tackle the class imbalance in the dataset, a combination of conventional and 
 
 The use of DC-GANs, which combine a generator and a discriminator in an adversarial setup, helped the model learn robust representations for rare classes, improving classification performance.
 
-Visual results such as the image classification distribution in the dataset, the sample of real and fake images, and pixel intensity distribution can be found in 'ML_report_final.pdf' file.
+Visual results such as the image classification distribution in the dataset, the sample of real and fake images, and pixel intensity distribution can be found in `ML_report_final.pdf` file.
 
 ---
   
